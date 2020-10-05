@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Sweng Project</string>
     <string name="main_textfield_placeholder">Enter your name</string>
-    <string name="say_hi">Say Hi</string>
+    <string name="say_hi">Say Hello !</string>
     <string name="greeting_message">Hello %s! How are you ? Change by second copy !</string>
     <string name="error_dialog_title">An error occurred while fetching the weather</string>
     <string name="retry">Retry</string>
